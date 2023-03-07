@@ -1,9 +1,10 @@
-### Olá, muito obrigado por visitar essa página.. 👋
+### 👋 Olá tudo bem, meu nome é Adalto Junior, obrigado por visitar essa página.. 
 
-- 🤔 Meu nome é Adalto Junior.
+
 - ⚡ Atualmente trabalho na área administrativa em uma unidade e urgência e emergência.
 - 🔭 Sou formado em *Sistemas Para Internet* com pós-graduação em *Gestão Hospitalar*, e atualmente curso *FullStack* na busca de novas trilhas de aprendizado... 
 
+<br/>
   <!--
   - Adicionando carrão de estatísticas do GitHub || Você pode passar um parâmetro de consulta '&hide=' para ocultar quaisquer estatísticas específicas com valores       separados por vírgulas. Opções:&hide=stars,commits,prs,issues,contribs  
   - Com temas embutidos, você pode personalizar a aparência do cartão sem fazer nenhuma personalização manual. Use &theme=THEME_NAME. 
