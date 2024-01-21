@@ -1,8 +1,8 @@
-### 👋 Olá tudo bem, meu nome é Adalto Junior, obrigado por visitar essa página.. 
+### 👋 Olá tudo bem, meu nome é Adalto Junior, muito obrigado por visitar minha página.. 
 
 
-- ⚡ Atualmente trabalho na área administrativa em uma unidade de urgência e emergência hospitalar.
-- 🔭 Sou formado em *Sistemas Para Internet* com pós-graduação em *Gestão Hospitalar*, e atualmente curso *FullStack* na busca de novas trilhas de aprendizado... 
+- ⚡ Atualmente trabalho como programador de sistemas de informação em um renomado instituto de gestão hospitalar.
+- 🔭 Sou formado em *Sistemas Para Internet* com pós-graduação em *Gestão Hospitalar*, e eterno estudante, sempre na busca de novas trilhas de aprendizado... 
 
 <br/>
   <!--
