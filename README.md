@@ -1,8 +1,8 @@
-### 👋 Olá tudo bem, meu nome é Adalto Junior, muito obrigado por visitar minha página.. 
+### 👋 Olá tudo bem, meu nome é Adalto Junior, muito obrigado por visitar essa página.. 
 
 
 - ⚡ Atualmente trabalho como programador de sistemas de informação em um renomado instituto de gestão hospitalar.
-- 🔭 Sou formado em *Sistemas Para Internet* com pós-graduação em *Gestão Hospitalar*, e eterno estudante, sempre na busca de novas trilhas de aprendizado... 
+- 🔭 Sou formado em *Sistemas Para Internet* com pós-graduação em *Gestão Hospitalar*, e eterno estudante na busca de novas trilhas de aprendizado... 
 
 <br/>
   <!--
