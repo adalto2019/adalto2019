@@ -12,10 +12,26 @@
   - Tema transparente:  Este tema é otimizado para ter uma boa aparência nos temas padrão claro e escuro do GitHub. Você pode ativar este tema usando o &theme=transparentparâmetro da seguinte forma:
   -->
 
-<div align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
-</div>
+#### 📊 Estatísticas do GitHub
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="./profile/stats.svg"
+        alt="GitHub Stats"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="./profile/top-langs.svg"
+        alt="Top Languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
  
 ## <!-- linha -->
  
