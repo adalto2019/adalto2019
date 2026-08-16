@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=adalto2019&show_icons=true&hide=prs,issues&theme=default&bg_color=ffffff
+          options: username=adalto2019&show_icons=true&hide=prs,issues&include_all_commits=true&theme=default&bg_color=ffffff
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=adalto2019&layout=compact&langs_count=8&theme=default&bg_color=ffffff
+          options: username=adalto2019&layout=compact&langs_count=15&theme=default&bg_color=ffffff
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
