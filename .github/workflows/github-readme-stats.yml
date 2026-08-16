@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
 
       - name: Gerar GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -32,11 +35,21 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Salvar estatísticas
+      - name: Commit e Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
-          git commit -m "Atualizar GitHub Stats" || exit 0
-          git pull --rebase origin main
-          git push origin main
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nas estatísticas."
+            exit 0
+          fi
+
+          git commit -m "Atualizar GitHub Stats"
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
